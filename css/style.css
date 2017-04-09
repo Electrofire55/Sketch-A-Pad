@@ -1,0 +1,34 @@
+
+div#wrapper {
+  margin: auto;
+  text-align: center;
+ 
+
+}
+
+h1 {
+  font-family: Arial;
+}
+
+div#container {
+  margin: 30px auto;
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  border: 2px solid #1affb2;
+  background-color: white;
+}
+
+div#outContainer {
+  margin: 30px auto;
+  text-align: center;
+  width: 600px;
+  height: 600px;
+  background-color: #66ffcc;
+  border: 1px solid #1affb2;
+  border-radius: 20px;
+}
+
+#pixel {
+  float: left;
+}
